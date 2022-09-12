@@ -6,9 +6,6 @@ def gcd(a, b):
 
             a = a % b
 
-        else:
-
-            b = b % a
 
     print('Наибольший общий делитель:', a + b)
 
