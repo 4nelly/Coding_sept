@@ -9,8 +9,6 @@ print("\nВведите вторую точку")
 x2 = float(input('X: '))
 
 y2 = float(input('Y: '))
-# y = k * x + b
-
 
 x_diff = x1 - x2
 
